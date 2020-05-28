@@ -1,0 +1,15 @@
+{
+  "name": "my-first-node-app",
+  "version": "1.0.0",
+  "description": "doing stuff",
+  "main": "lab-2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon lab-2.js"
+  },
+  "author": "Navneet Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
