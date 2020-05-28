@@ -5,7 +5,8 @@
   "main": "lab-2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon lab-2.js"
+    "dev": "nodemon lab-2.js",
+    "start": "node lab-2.js"
   },
   "author": "Navneet Singh",
   "license": "ISC",
